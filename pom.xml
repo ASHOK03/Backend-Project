@@ -30,7 +30,7 @@
             <version>2.9.8</version>
             <scope>compile</scope>
         </dependency>
-
+//These dependancy is for the SpringFramework in Spring context and used in Spring boot application 
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
